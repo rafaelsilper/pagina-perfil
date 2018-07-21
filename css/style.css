@@ -1,0 +1,12 @@
+.texto-centro{
+  text-align: center;
+}
+.imagem-centro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.imagem-redonda{
+  border-radius: 5%
+}
